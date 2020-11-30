@@ -7,23 +7,28 @@ body{
     color: crimson;
 }
 nav {
-    float: left;
+    float:left;
     padding: 10px;
     background-color: crimson;
     height: 100vh;
 }
 .photo{
+    border:solid crimson;
     width:300px;
     height:300px;
-    margin: 15px;
+    margin-left: 550px;
+}
+.photo:hover{
+    transition: .5s ease-in-out;
+    transform: scale(1.2);
 }
 ul{
     display: block;
-    background-color: darkgray;
     padding: 0;
     list-style-type: none;
-    width: 200px;
-    height: 200px
+    width: 225px;
+    height: 200px;
+    margin-top:5px;
 }
 a {
     background-color: white;
@@ -32,6 +37,11 @@ a {
     text-decoration: none;
     display: block;
     margin: 10px;
+    margin-top:5px;
     border-radius: 20px;
+    text-align: center;
     text-transform: uppercase;
+}
+li{
+    margin-top: 5px;
 }
