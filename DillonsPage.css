@@ -11,6 +11,7 @@ body{
     text-align: center;
     font-size: 50px;
     color: crimson;
+    text-decoration:underline;
 }
 nav {
     float:left;
@@ -82,4 +83,17 @@ li{
     margin-left: 480px;
     margin-top: 0px;
     padding: 15px;
+}
+.Skills {
+    background-color: lightgoldenrodyellow;
+    transform: scale(1.5);
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
+    border: 5px solid crimson;
+    margin-left: 480px;
+    margin-top: 100px;
+}
+.skillsets{
+    text-decoration:underline;
+    text-align:center;
 }
