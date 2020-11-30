@@ -35,11 +35,11 @@ nav {
     margin-left: 450px;
     margin-bottom: 0px;
 }
-.stadium{
-    width:300px;
-    height:300px;
-    margin-left: 800px;
-    margin-top: 0px;
+.stadium {
+    width: 300px;
+    height: 300px;
+    margin-left: 550px;
+    transform: scale(1.4);
 }
 ul{
     display: block;
