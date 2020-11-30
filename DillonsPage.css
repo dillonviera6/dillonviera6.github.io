@@ -6,6 +6,32 @@ body{
     font-size: 50px;
     color: crimson;
 }
-nav{
-    display: inline-block;
+nav {
+    float: left;
+    padding: 15px;
+    background-color: crimson;
+    height: 100vh;
+}
+.photo{
+    width:300px;
+    height:300px;
+    margin: 15px;
+}
+ul{
+    display: block;
+    background-color: darkgray;
+    padding: 0;
+    list-style-type: none;
+    width: 200px;
+    height: 200px
+}
+a {
+    background-color: white;
+    color: crimson;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    display: block;
+    margin: 10px;
+    border-radius: 20px;
+    text-transform: uppercase;
 }
