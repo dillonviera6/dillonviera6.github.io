@@ -1,5 +1,10 @@
 body{
-
+    background-color:lightgoldenrodyellow;
+}
+.name{
+    position: center;
+    font-size: 50px;
+    color: crimson;
 }
 nav{
     float: left;
