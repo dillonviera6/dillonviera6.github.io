@@ -25,6 +25,10 @@ nav {
     height:300px;
     margin-left: 550px;
 }
+.photo.fillwitdh{
+    min-width: 100%;
+    height: auto;
+}
 .photo:hover{
     transition: .5s ease-in-out;
     transform: scale(1.2);
