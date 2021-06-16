@@ -88,6 +88,7 @@ li{
     background-color: lightgoldenrodyellow;
     transform: scale(1.5);
     width: 240px;
+    height: 400px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.8);
     border: 5px solid crimson;
     margin-left: 580px;
